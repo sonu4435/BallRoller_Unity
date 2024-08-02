@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Gold Coin
+* source:	https://sketchfab.com/3d-models/stylized-gold-coin-dc0b9491f7ea40ffaca034f0a4036d93
+* author:	Keyotine (https://sketchfab.com/Keyotine)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Gold Coin" (https://sketchfab.com/3d-models/stylized-gold-coin-dc0b9491f7ea40ffaca034f0a4036d93) by Keyotine (https://sketchfab.com/Keyotine) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
